@@ -1,1 +1,2 @@
-def say_hello(na)
+def say_hello(name="Ruby Programmer")
+  puts "Hello #{name}!"
